@@ -1,0 +1,1067 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="94">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="68" y="656" width="252" height="156" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Crie colunas separadas para endereço, cidade e estado e remova a coluna de CEP.</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="90">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="68" y="152" width="252" height="156" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Crie colunas separadas para o endereço, cidade, estado e CEP.</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="92">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="68" y="320" width="252" height="156" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Crie colunas separadas para o endereço, cidade, estado e CEP, porém mantenha o estado e o CEP na mesma célula.</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="93">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="68" y="488" width="252" height="156" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Separe o nome e o sobrenome em duas colunas distintas.</Text>
+          <Font name="Arial" size="8.25" style="0" />
+          <TextColor name="Black" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="67">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="67" y="66" width="463" height="84" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Exercício: Ferramenta Texto para Colunas</Text>
+          <Font name="Times New Roman" size="18" style="0" />
+          <TextColor r="13" g="35" b="69" />
+          <FillColor name="White" />
+          <Shape shape="3" />
+          <Justification Justification="3" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="69">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="334" y="152" width="108" height="84" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Resultado desejado</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="73">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="334" y="320" width="108" height="84" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Resultado desejado</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="77">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="334" y="488" width="108" height="84" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Resultado desejado</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="81">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="334" y="656" width="108" height="84" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Resultado desejado</Text>
+          <Font name="Microsoft Sans Serif" size="7.8" style="0" />
+          <TextColor name="Gray" />
+          <FillColor name="White" />
+          <Shape shape="0" />
+          <Justification Justification="4" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="86">
+      <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
+        <Position x="66" y="102" width="436" height="40" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Text>Use a ferramenta Texto para Colunas para obter os resultados a seguir.</Text>
+          <Font name="Arial" size="9.75" style="0" />
+          <TextColor name="White" />
+          <FillColor r="0" g="130" b="202" />
+          <Shape shape="0" />
+          <Justification Justification="1" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="91">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="110" y="208" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="95">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="110" y="376" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="96">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="110" y="544" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="97">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="110" y="712" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="102">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="360" y="177" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+            <Field name="Endereço1" />
+            <Field name="Endereço2" />
+            <Field name="Endereço3" />
+            <Field name="Endereço4" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+              <c>Rua das Grevíleas 1256</c>
+              <c>Londrina</c>
+              <c>PR</c>
+              <c>86050-590</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+              <c>Alameda dos Cambarás 915</c>
+              <c>Campinas</c>
+              <c>SP</c>
+              <c>13101-640</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+              <c>Rua B 4 865</c>
+              <c>Cuiabá</c>
+              <c>MT</c>
+              <c>78055-675</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+              <c>Rua República Centro Africana 881</c>
+              <c>São Paulo</c>
+              <c>SP</c>
+              <c>04950-160</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+              <c>Praça José Schunck 539</c>
+              <c>São Paulo</c>
+              <c>SP</c>
+              <c>04835-085</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+              <c>Rua Querência 286</c>
+              <c>Porto Alegre</c>
+              <c>RS</c>
+              <c>91550-580</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+              <c>Rua Donatário João de Barros 795</c>
+              <c>Salto</c>
+              <c>SP</c>
+              <c>13323-361</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+              <c>Rua Sibipiruna 642</c>
+              <c>Boa Vista</c>
+              <c>RR</c>
+              <c>69307-241</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+              <c>Avenida Isaac José Rodrigues 118</c>
+              <c>Aracaju</c>
+              <c>SE</c>
+              <c>49035-400</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+              <c>Rua Pelotas 911</c>
+              <c>Cotia</c>
+              <c>SP</c>
+              <c>06729-245</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="103">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="359" y="345" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+            <Field name="Endereço1" />
+            <Field name="Endereço2" />
+            <Field name="Endereço3" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+              <c>Rua das Grevíleas 1256</c>
+              <c>Londrina</c>
+              <c>PR,86050-590</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+              <c>Alameda dos Cambarás 915</c>
+              <c>Campinas</c>
+              <c>SP,13101-640</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+              <c>Rua B 4 865</c>
+              <c>Cuiabá</c>
+              <c>MT,78055-675</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+              <c>Rua República Centro Africana 881</c>
+              <c>São Paulo</c>
+              <c>SP,04950-160</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+              <c>Praça José Schunck 539</c>
+              <c>São Paulo</c>
+              <c>SP,04835-085</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+              <c>Rua Querência 286</c>
+              <c>Porto Alegre</c>
+              <c>RS,91550-580</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+              <c>Rua Donatário João de Barros 795</c>
+              <c>Salto</c>
+              <c>SP,13323-361</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+              <c>Rua Sibipiruna 642</c>
+              <c>Boa Vista</c>
+              <c>RR,69307-241</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+              <c>Avenida Isaac José Rodrigues 118</c>
+              <c>Aracaju</c>
+              <c>SE,49035-400</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+              <c>Rua Pelotas 911</c>
+              <c>Cotia</c>
+              <c>SP,06729-245</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="104">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="360" y="513" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+            <Field name="Nome1" />
+            <Field name="Nome2" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+              <c>Ágatha</c>
+              <c>Melo</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+              <c>Rafael</c>
+              <c>Araujo</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+              <c>Victor</c>
+              <c>Ferreira</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+              <c>Larissa</c>
+              <c>Pinto</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+              <c>Marisa</c>
+              <c>Costa</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+              <c>Júlio</c>
+              <c>Rocha</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+              <c>Kaua</c>
+              <c>Rodrigues</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+              <c>Mariana</c>
+              <c>Alves</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+              <c>Fábio</c>
+              <c>Silva</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+              <c>Luis</c>
+              <c>Souza</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="105">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="361" y="680" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="Número do cliente" />
+            <Field name="Nome" />
+            <Field name="Endereço" />
+            <Field name="Endereço1" />
+            <Field name="Endereço2" />
+            <Field name="Endereço3" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>Ágatha Melo</c>
+              <c>Rua das Grevíleas 1256,Londrina,PR,86050-590</c>
+              <c>Rua das Grevíleas 1256</c>
+              <c>Londrina</c>
+              <c>PR</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>Rafael Araujo</c>
+              <c>Alameda dos Cambarás 915,Campinas,SP,13101-640</c>
+              <c>Alameda dos Cambarás 915</c>
+              <c>Campinas</c>
+              <c>SP</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>Victor Ferreira</c>
+              <c>Rua B 4 865,Cuiabá,MT,78055-675</c>
+              <c>Rua B 4 865</c>
+              <c>Cuiabá</c>
+              <c>MT</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>Larissa Pinto</c>
+              <c>Rua República Centro Africana 881,São Paulo,SP,04950-160</c>
+              <c>Rua República Centro Africana 881</c>
+              <c>São Paulo</c>
+              <c>SP</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>Marisa Costa</c>
+              <c>Praça José Schunck 539,São Paulo,SP,04835-085</c>
+              <c>Praça José Schunck 539</c>
+              <c>São Paulo</c>
+              <c>SP</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>Júlio Rocha</c>
+              <c>Rua Querência 286,Porto Alegre,RS,91550-580</c>
+              <c>Rua Querência 286</c>
+              <c>Porto Alegre</c>
+              <c>RS</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>Kaua Rodrigues</c>
+              <c>Rua Donatário João de Barros 795,Salto,SP,13323-361</c>
+              <c>Rua Donatário João de Barros 795</c>
+              <c>Salto</c>
+              <c>SP</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>Mariana Alves</c>
+              <c>Rua Sibipiruna 642,Boa Vista,RR,69307-241</c>
+              <c>Rua Sibipiruna 642</c>
+              <c>Boa Vista</c>
+              <c>RR</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>Fábio Silva</c>
+              <c>Avenida Isaac José Rodrigues 118,Aracaju,SE,49035-400</c>
+              <c>Avenida Isaac José Rodrigues 118</c>
+              <c>Aracaju</c>
+              <c>SE</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>Luis Souza</c>
+              <c>Rua Pelotas 911,Cotia,SP,06729-245</c>
+              <c>Rua Pelotas 911</c>
+              <c>Cotia</c>
+              <c>SP</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="106">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="198" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Endereço</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>Endereço</RootName>
+          <Delimeters value="," />
+          <NumFields value="4" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="107">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="198" y="378" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Endereço</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>Endereço</RootName>
+          <Delimeters value="," />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="108">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="198" y="546" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Nome</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>Nome</RootName>
+          <Delimeters value=" " />
+          <NumFields value="2" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="109">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="198" y="714" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>Endereço</Field>
+          <ErrorHandling>Ignore</ErrorHandling>
+          <RootName>Endereço</RootName>
+          <Delimeters value="," />
+          <NumFields value="3" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="91" Connection="Output" />
+      <Destination ToolID="106" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="95" Connection="Output" />
+      <Destination ToolID="107" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="96" Connection="Output" />
+      <Destination ToolID="108" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="97" Connection="Output" />
+      <Destination ToolID="109" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="-3" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>PT_Texto+para+Col</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="3db77118-4af6-4b24-952c-c9d0969b9d62" />
+      <Telemetry>
+        <PreviousWorkflowId value="" />
+        <OriginWorkflowId value="3db77118-4af6-4b24-952c-c9d0969b9d62" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
